@@ -43,7 +43,7 @@ const container = {
 
 const Benefits = ({ setSelectedPage }: Props) => {
   return (
-    <section className="mx-auto min-h-full w-5/6 py-8">
+    <section id="benefits" className="mx-auto min-h-full w-5/6 py-8">
       <motion.div
         onViewportEnter={() => setSelectedPage(SelectedPage.Benefits)}
       >

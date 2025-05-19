@@ -5,7 +5,7 @@
 
 @theme {
     /*custom colors*/
-    --color-*: initial;
+    /* --color-*: initial; */
     --color-gray-20: #F8F4EB;
     --color-gray-50: #EFE6E6;
     --color-gray-100: #DFCCCC;
